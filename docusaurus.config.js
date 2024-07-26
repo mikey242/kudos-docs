@@ -50,6 +50,9 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        googleTagManager: {
+          containerId: 'GTM-M2KWTHG3',
+        },
       }),
     ],
   ],
@@ -73,12 +76,8 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
-          {
             type: 'localeDropdown',
+            position: 'right'
           },
         ],
       },
