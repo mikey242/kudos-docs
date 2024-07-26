@@ -100,7 +100,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Kudos Donations.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kudos Donations`,
       },
       prism: {
         theme: prismThemes.github,
