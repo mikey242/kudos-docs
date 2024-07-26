@@ -21,8 +21,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://wordpress.org/plugins/kudos-donations/">
-            Download Kudos Donations
+            to="./docs/welcome">
+            Check out the documentation
             </Link>
         </div>
       </div>
