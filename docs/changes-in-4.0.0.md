@@ -1,6 +1,6 @@
 # Changes in v4.0.0
 
-Version 4.0.0 is a major upgrade to Kudos Donations. The plugin has been re-writted from the ground and contains a number of notable changes and improvements compared to the 3.x versions.
+Version 4.0.0 is a major upgrade to Kudos Donations. The plugin has been re-written from the ground and contains a number of notable changes and improvements compared to the 3.x versions.
 
 Among the many changes available, the most notable ones are that most settings are now set at the campaign level (as opposed to being global) and the the front end of the plugin is now rendered in a separate frame using React.
 
