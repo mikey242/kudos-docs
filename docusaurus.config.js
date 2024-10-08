@@ -107,6 +107,12 @@ const config = {
         darkTheme: prismThemes.dracula,
         additionalLanguages: ['php']
       },
+      algolia: {
+        appId: "CHWV6ABBQ7",
+        apiKey: "623ff72cb18118b6e98f61ebba8f68d2",
+        indexName: "kudosdonations",
+        contextualSearch: true,
+      }
     }),
 };
 
