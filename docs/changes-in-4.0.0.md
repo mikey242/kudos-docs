@@ -8,7 +8,7 @@ Among the many changes available, the most notable ones are that most settings a
 
 :::warning
 
-If you have made customizations to Kudos Donations using CSS, these will not work anymore. Please read [here](#react-front-end) for more information.
+If you have made customizations to Kudos Donations using CSS, these will need to be reconfigured. Please read [here](#react-front-end) for more information.
 
 :::
 
@@ -20,7 +20,7 @@ If you have made customizations to Kudos Donations using CSS, these will not wor
 
 ## Overview
 
-Here is a quick overview of the changes:
+Here is a quick overview of the major changes:
 
 * New campaigns admin page with ability to create / edit / duplicate and delete campaigns
 * Can now configure most settings per-campaign rather than globally
@@ -39,7 +39,7 @@ Here is a quick overview of the changes:
 
 In version 3.x the campaigns you created were found under the **Donations > Settings** menu under a campaigns tab. There is now a separate **Donations > Campaigns** menu which gives you an overview of your campaigns and allows you create, delete, duplicate and edit your campaigns.
 
-Along with the customization available in the 3.x versions, you can now configure most of the other settings on a per-campaign basis (theme colour, return url, return message etc.) giving you more control over each campaign.
+Along with the customization available in the 3.x versions, you can now configure most of the other settings on a per-campaign basis (theme color, return url, return message etc.) giving you more control over each campaign.
 
 Once you have configured your email and vendor settings, the **Campaigns** page is where you will spend most time configuring Kudos Donations.
 
@@ -57,15 +57,15 @@ An advantage to this is you can now easily customize the way Kudos Donations loo
 
 ![Sample Invoice](../static/img/invoice-border.png)
 
-Kudos Donations can now generates PDF invoices for successful donations. You can add your address and VAT number under **Donations > Settings > Invoice** which will be automatically added to each invoice.
+Kudos Donations can now generate PDF invoices for successful donations. You can add your address and VAT number under **Donations > Settings > Invoice** which will be automatically added to each invoice.
 
 If you have **Send email receipts** enabled (**Donations > Settings > Email**) a copy of this invoice will be automatically attached to the email sent to the donor.
 
 ## Multiple Currencies
 
-In version 3.x all transactions were in euros (€), however it is now possible to select the desired currency when creating a campaign. The list of currencies available is currently dicated by those [supported by Mollie](https://docs.mollie.com/docs/multicurrency).
+In version 3.x all transactions were in euros (€), however it is now possible to select the desired currency when creating a campaign. The list of currencies available is currently dictated by those [supported by Mollie](https://docs.mollie.com/docs/multicurrency).
 
-For technical reasons, once you have recieved a donation for the campaign it will be no longer possible to change the currency.
+For technical reasons, once you have received a donation for the campaign it will be no longer possible to change the currency.
 
 ## Shortcode Pop-up
 
@@ -77,4 +77,4 @@ If you still need to use a shortcode (instead of a block), another handy change 
 
 ![Campaign Payment](../static/img/campaign-payment.png)
 
-Previously you were only allowed to make donations in major units (1, 5, 10, 20 etc.), now it is possible to allow donations in minor units also (1.5, 5,2, 10.6). This applies to both fixed and open value types.
+Previously you were only allowed to make donations in major units (1, 5, 10, 20 etc.), it is now possible to allow donations in minor units also (1.5, 5,2, 10.6). This applies to both fixed and open value types.
