@@ -32,6 +32,7 @@ Here is a quick overview of the major changes:
 * New minimum donation setting
 * Allow for partial donation amounts (e.g €1.5)
 * Email "from name" header can now be configured and defaults to website name
+* Passwords and API Keys are now encrypted
 
 ## Campaigns
 
