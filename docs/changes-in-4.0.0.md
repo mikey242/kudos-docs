@@ -79,3 +79,7 @@ If you still need to use a shortcode (instead of a block), another handy change 
 ![Campaign Payment](../static/img/campaign-payment.png)
 
 Previously you were only allowed to make donations in major units (1, 5, 10, 20 etc.), it is now possible to allow donations in minor units also (1.5, 5,2, 10.6). This applies to both fixed and open value types.
+
+## Encrypted Passwords & API Keys
+
+Encrypting your passwords and API keys is the best way to protect your sensitive data from attackers. By encrypting this data it is not possible for anyone with access to the WordPress database to view the original passwords/api keys. At the moment this includes both Mollie API Keys and the SMTP password.
