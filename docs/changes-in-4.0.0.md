@@ -4,7 +4,7 @@
 
 Version 4.0.0 is a major upgrade to Kudos Donations. The plugin has been re-written from the ground up and contains a number of notable changes and improvements compared to the 3.x versions.
 
-Among the many changes available, the most notable ones are that most settings are now set at the campaign level (as opposed to being global) and the the front end of the plugin is now rendered in a separate frame using React.
+Among the many changes available, the most notable ones are that most settings are now set at the campaign level (as opposed to being global) and that the front end of the plugin is now rendered in a separate frame using React.
 
 :::warning
 
@@ -46,7 +46,7 @@ Once you have configured your email and vendor settings, the **Campaigns** page 
 
 ## React Front-End
 
-In order to minimize conflicts with other themes plugins, the Kudos Donations button and form are now rendered using React in its own frame (Shadow DOM). This means that the CSS and JavaScript for other themes or plugins will no longer be able to easily conflict with Kudos Donations and cause it look or work unexpectedly.
+In order to minimize conflicts with other themes and plugins, the Kudos Donations button and form are now rendered using React in its own frame (Shadow DOM). This means that the CSS and JavaScript for other themes or plugins will no longer be able to easily conflict with Kudos Donations and cause it look or work unexpectedly.
 
 A side effect of this new method is that if you have applied any CSS customizations to the way Kudos Donations looks and feels these will no longer work. In order to customize Kudos Donations you will now need to write your custom CSS in the **Custom CSS** tab under the campaign you would like to use it in.
 
