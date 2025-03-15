@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Welkom
 
 Hoi! Mijn naam is Michael. Ik heb Wildlife Biology gestudeerd, maar ik heb altijd al een interesse gehad in technologie en computers.
