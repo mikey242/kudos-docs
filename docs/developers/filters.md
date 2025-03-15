@@ -50,7 +50,7 @@ Allows you to modify the options available when selecting the payment frequency 
 
 :::info
 
-You will not be able to add new options to this list, only removing will be possible. Possible options: 12 months, 3 months, 1 month
+You will not be able to add new options to this list, only removing will be possible. Possible options: `12 months`, `3 months` and `1 month`
 
 :::
 
