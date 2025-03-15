@@ -80,3 +80,7 @@ This action is triggered when the plugin is activated.
 ### kudos_donations_deactivated
 
 This action is triggered when the plugin is de-activated.
+
+### kudos_post_saved
+
+This action is triggered when a new Kudos related post (donor, transaction, subscription) is either created or updated.

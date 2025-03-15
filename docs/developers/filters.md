@@ -44,3 +44,21 @@ function kudos_filter_company_name( string $name ) {
 }
 add_filter( 'kudos_invoice_company_name', 'kudos_filter_company_name' );
 ```
+### kudos_frequency_options
+
+Allows you to modify the options available when selecting the payment frequency for recurring payments.
+
+:::info
+
+You will not be able to add new options to this list, only removing will be possible. Possible options: 12 months, 3 months, 1 month
+
+:::
+
+```php title="functions.php"
+function kudos_change_frequency_options( array $options ) {
+    unset($options['12 months']); // Disable Yearly.
+    unset($options['3 months']); // Disable Quarterly.
+    return $options;
+};
+add_filter('kudos_frequency_options', 'kudos_change_frequency_options');
+```
