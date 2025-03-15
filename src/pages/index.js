@@ -1,6 +1,7 @@
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import Translate, {translate} from '@docusaurus/Translate';
 import Layout from '@theme/Layout';
 
 import Heading from '@theme/Heading';
@@ -21,7 +22,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="./docs/welcome">
-            Check out the documentation
+            <Translate>Check out the documentation</Translate>
             </Link>
         </div>
       </div>
