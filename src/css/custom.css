@@ -32,3 +32,7 @@
 .hero--primary {
   height: calc(100vh - var(--ifm-navbar-height));
 }
+
+article img {
+  border: 1px solid #cccccc;
+}
