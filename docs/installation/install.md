@@ -1,10 +1,14 @@
+---
+sidebar_position: 2
+---
+
 # Installation
 
-The best way to get Kudos Donations is through WordPress by vising the plugins page and searching for Kudos Donations. Alternatively you can always download an installable zip file from the [plugin page](https://wordpress.org/plugins/kudos-donations/).
+The best way to get Kudos Donations is through WordPress by visiting the plugins page and searching for Kudos Donations. Alternatively you can always download an installable zip file from the [plugin page](https://wordpress.org/plugins/kudos-donations/).
 
 :::tip
 
-We recommend installing from the plugin directory since this allows you to easily recieve important updates.
+We recommend installing from the plugin directory since this allows you to easily receive important updates.
 
 :::
 

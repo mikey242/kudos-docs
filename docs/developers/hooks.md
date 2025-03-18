@@ -8,7 +8,7 @@ Hooks are features supported by WordPress that allow you to interact with or mod
 
 :::info
 
-More information about hooks can be found in the WordPress developer documentaion found [here](https://developer.wordpress.org/plugins/hooks/)
+More information about hooks can be found in the WordPress developer documentation found [here](https://developer.wordpress.org/plugins/hooks/)
 
 :::
 

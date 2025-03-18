@@ -24,7 +24,7 @@ add_filter( 'kudos_payment_description', 'kudos_filter_description', 10, 4 );
 
 ### kudos_receipt_attachment
 
-Used to modify or add attachments to reciept emails.
+Used to modify or add attachments to receipt emails.
 
 ```php title="functions.php"
 function kudos_filter_attachments( array $attachments, int $transaction_id ) {

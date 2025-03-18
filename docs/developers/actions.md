@@ -17,7 +17,7 @@ add_action( 'kudos_donations_upgraded', 'kudos_on_upgrade' );
 
 ### kudos_submit_payment
 
-This action accurs immediately after a payment has been submitted. This action gives you access to the form data submitted.
+This action occurs immediately after a payment has been submitted. This action gives you access to the form data submitted.
 
 ```php title="functions.php"
 function kudos_on_payment_submit( array $args ) {
