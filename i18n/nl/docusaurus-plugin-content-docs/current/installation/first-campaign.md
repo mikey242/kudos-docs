@@ -33,11 +33,11 @@ Shortcodes zijn de oudere methode, maar worden beter ondersteund op oudere websi
 
 Deze kun je overal in je berichten en pagina’s plaatsen, waarna het automatisch wordt omgezet naar een Kudos Donations-formulier voor je bezoekers.
 
-In plaats van de shortcode handmatig in te typen, kun je op de knop **Shortcode** bovenaan je campagnepagina klikken. Dit opent een pop-up waarin je de shortcode kunt configureren. Laat alles op de standaardinstellingen staan en klik gewoon op de knop **Kopieer shortcode** onderaan de pop-up.
+In plaats van de shortcode handmatig in te typen, kun je op de knop **Shortcode** bovenaan je campagnepagina klikken. Dit opent een pop-up waarin je de shortcode kunt configureren. Laat alles op de standaardinstellingen staan en klik op de knop **Kopieer shortcode** onderaan de pop-up.
 
 ![Shortcode Modaal](../../../../../static/img/nl/copy-shortcode-modal.png)
 
-Ga nu naar het **Pagina’s/Berichten** menu en bewerk de gewenste pagina. Plaats vervolgens de cursor in de editor op de plek waar je het Kudos Donations-formulier wilt tonen en plak de shortcode. Sla de pagina op en je donatieknop zou zichtbaar moeten zijn wanneer je de pagina bezoekt.
+Ga nu naar het **Pagina’s/Berichten** menu en bewerk de gewenste pagina. Plaats vervolgens de cursor in de editor op de plek waar je het Kudos Donations-formulier wilt tonen en plak de shortcode. Sla de pagina op en je donatieknop zou nu zichtbaar moeten zijn wanneer je de pagina bezoekt.
 
 ### Blokken
 
