@@ -8,13 +8,13 @@ Once you have [installed](./install.md) and activated Kudos Donations, the next 
 
 ## Mollie
 
-Visit the new **Donations** menu in the WordPress admin, you will be greeted by a welcome guide which will help you to get up and running. The main thing that you will need to complete here is to enter your **Mollie API keys** so that Kudos Donations can communicate with your Mollie account. You will need both your **test** and **live** keys. 
-
 :::tip
 
 You can get your Mollie API keys by visiting [this page](https://mollie.com/dashboard/developers/api-keys).
 
 :::
+
+Visit the new **Donations** menu in the WordPress admin, you will be greeted by a welcome guide which will help you to get up and running. The main thing that you will need to complete here is to enter your **Mollie API keys** so that Kudos Donations can communicate with your Mollie account. You will need both your **test** and **live** keys. 
 
 ![Mollie Settings Tab](../../static/img/en/mollie-tab-completed.png)
 

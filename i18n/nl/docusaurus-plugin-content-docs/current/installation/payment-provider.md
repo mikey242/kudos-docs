@@ -1,10 +1,12 @@
+---
+sidebar_position: 3
+---
+
 # Betaalprovider
 
 Zodra je Kudos Donations hebt [geïnstalleerd](./install.md) en geactiveerd, is de volgende stap het inschakelen van een betaalprovider. Op dit moment ondersteunen we alleen Mollie, maar we zijn van plan om in de toekomst meer opties toe te voegen.
 
 ## Mollie
-
-Ga naar het nieuwe **Donaties**-menu in de WordPress-beheeromgeving. Je wordt begroet door een welkomstgids die je helpt om snel aan de slag te gaan. Het belangrijkste dat je hier moet doen, is je **Mollie API-sleutels** invoeren, zodat Kudos Donations kan communiceren met je Mollie-account. Je hebt zowel je **test** als **live** sleutels nodig.
 
 :::tip
 
@@ -12,7 +14,9 @@ Je kunt je Mollie API-sleutels ophalen via [deze pagina](https://mollie.com/dash
 
 :::
 
-![Mollie Instellingen Tab](../../static/img/nl/mollie-tab-completed.png)
+Ga naar het nieuwe **Donaties**-menu in de WordPress-beheeromgeving. Je wordt begroet door een welkomstgids die je helpt om snel aan de slag te gaan. Het belangrijkste dat je hier moet doen, is je **Mollie API-sleutels** invoeren, zodat Kudos Donations kan communiceren met je Mollie-account. Je hebt zowel je **test** als **live** sleutels nodig.
+
+![Mollie Instellingen Tab](../../../../../static/img/nl/mollie-tab-completed.png)
 
 ### Terugkerende betalingen
 Als je abonnementsbetalingen wilt inschakelen, moet je een van de volgende betaalmethoden activeren in je Mollie-account:
