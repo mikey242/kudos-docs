@@ -12,6 +12,8 @@ Je kunt je Mollie API-sleutels ophalen via [deze pagina](https://mollie.com/dash
 
 :::
 
+![Mollie Instellingen Tab](../../static/img/nl/mollie-tab-completed.png)
+
 ### Terugkerende betalingen
 Als je abonnementsbetalingen wilt inschakelen, moet je een van de volgende betaalmethoden activeren in je Mollie-account:
 
