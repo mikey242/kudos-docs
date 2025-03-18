@@ -70,7 +70,7 @@ For technical reasons, once you have received a donation for the campaign it wil
 
 ## Shortcode Pop-up
 
-![Shortcode Pop-up](../static/img/shortcode-popup.png)
+![Shortcode Pop-up](../static/img/en/copy-shortcode-modal.png)
 
 If you still need to use a shortcode (instead of a block), another handy change is the generate shortcode button. This can be accessed from within the edit screen of a campaign and with a few simple options, this will allow you to easily configure and generate your shortcode instead of manually typing it out.
 

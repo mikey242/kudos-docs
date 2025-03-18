@@ -70,7 +70,7 @@ Om technische redenen is het niet meer mogelijk om de valuta te wijzigen zodra e
 
 ## Shortcode Pop-up
 
-![Shortcode Pop-up](../../../../static/img/shortcode-popup.png)
+![Shortcode Pop-up](../../../../static/img/nl/copy-shortcode-modal.png)
 
 Als je nog steeds shortcodes gebruikt (in plaats van blokken), is er een handige nieuwe functie: de shortcode-generator knop. Deze is toegankelijk vanuit het bewerkingsscherm van een campagne. Met een paar eenvoudige opties kun je je shortcode eenvoudig configureren en genereren zonder deze handmatig in te typen.
 
