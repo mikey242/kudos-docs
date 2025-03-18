@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Je Eerste Campagne
+# Je eerste campagne
 
 Voordat je donaties kunt ontvangen, moet je een campagne aanmaken. Campagnes bieden een manier om je donaties te organiseren in specifieke projecten of doelen. Elke campagne kan uitgebreid worden aangepast aan jouw wensen, maar in deze snelle handleiding laten we de meeste instellingen op hun standaardwaarde. Voor veel mensen is één campagne voldoende, maar als je je donaties wilt opdelen in groepen, kunnen meerdere campagnes dit een stuk eenvoudiger maken.
 
