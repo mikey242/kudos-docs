@@ -10,11 +10,11 @@ Before you can start receiving donations you will need to create a campaign. Cam
 
 To create your first campaign you will need to visit the **Campaigns** page located at **Donations > Campaigns**. You will then be greeted by the following screen:
 
-![Campaigns](../../static/img/en/campaigns-blank.png)
+![Empty Campaigns Page](../../static/img/en/campaigns-blank.png)
 
 From this page you will now want to click on the **New campaign** button located below the campaigns table. This will create a new campaign with all the **default** configuration. For now, all we are going to do is give it a unique name under the **Campaign name** option. Once you are done, click the **Save** button located in the header or at the bottom of the page.
 
-![Campaigns](../../static/img/en/new-campaign.png)
+![New Campaign Page](../../static/img/en/new-campaign.png)
 
 ## Placing the form on your website
 
@@ -45,7 +45,7 @@ Blocks are the newer way of adding custom content to your posts/pages/widget are
 
 To get started, go to the Pages/Posts menu and edit the desired page. Then place the cursor in the editor where you would like to place the Kudos Donations form. Click on the **➕** icon that appears and search for **Kudos Donations** and select it.
 
-![Campaigns](../../static/img/en/block-editor-choose-kudos.png)
+![Block Picker Dialogue](../../static/img/en/block-editor-choose-kudos.png)
 
 Now chose the campaign you just created on the sidebar on the right hand side. That's it, the **Donate Now** button should appear and all you need to do now is click save.
 
