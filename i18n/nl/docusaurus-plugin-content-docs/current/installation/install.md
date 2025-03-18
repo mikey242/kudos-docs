@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Installatie
 
 De beste manier om Kudos Donations te installeren is via WordPress zelf. Ga naar de plugins-pagina en zoek naar Kudos Donations. Je kunt ook altijd een installeerbaar zip-bestand downloaden van de [pluginpagina](https://wordpress.org/plugins/kudos-donations/).
