@@ -35,7 +35,7 @@ These can be placed on anywhere on your posts and pages and will be converted to
 
 Rather than typing out the shortcode manually, you can click on the **Shortcode** button at the top of your campaign. This will open a pop-up where you can configure the shortcode. Let's leave everything as default for now and just click the **Copy shortcode** button at the bottom.
 
-![Campaigns](../../static/img/en/copy-shortcode-modal.png)
+![Shortcode Modal](../../static/img/en/copy-shortcode-modal.png)
 
 Now go to the Pages/Posts menu and edit the desired page. Then place the cursor in the editor where you would like to place the Kudos Donations form and paste the shortcode. Then save the page and your donate button should be visible when you visit it.
 
