@@ -56,7 +56,7 @@ An advantage to this is you can now easily customize the way Kudos Donations loo
 
 ## PDF Invoices
 
-![Sample Invoice](../static/img/invoice-border.png)
+![Sample Invoice](../static/img/en/invoice-example.png)
 
 Kudos Donations can now generate PDF invoices for successful donations. You can add your address and VAT number under **Donations > Settings > Invoice** which will be automatically added to each invoice.
 

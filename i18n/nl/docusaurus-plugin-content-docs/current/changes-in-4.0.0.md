@@ -56,7 +56,7 @@ Een voordeel hiervan is dat je nu eenvoudig het uiterlijk van Kudos Donations pe
 
 ## PDF Facturen
 
-![Voorbeeld Factuur](../../../../static/img/invoice-border.png)
+![Voorbeeld Factuur](../../../../static/img/nl/invoice-example.png)
 
 Kudos Donations kan nu PDF-facturen genereren voor geslaagde donaties. Je kunt je adres en btw-nummer toevoegen onder **Donaties > Instellingen > Factuur**, en deze informatie wordt automatisch toegevoegd aan elke factuur.
 
