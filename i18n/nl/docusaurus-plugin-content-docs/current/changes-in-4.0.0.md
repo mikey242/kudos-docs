@@ -36,7 +36,7 @@ Hier is een kort overzicht van de belangrijkste wijzigingen:
 
 ## Campagnes
 
-![Campagnes](../../../../static/img/campaigns.png)
+![Campagnes](../../../../static/img/nl/campaigns-example.png)
 
 In versie 3.x vond je de campagnes onder het menu **Donaties > Instellingen** op een aparte tab voor campagnes. Nu is er een apart menu **Donaties > Campagnes**, waar je een overzicht van je campagnes krijgt en ze kunt aanmaken, verwijderen, dupliceren en bewerken.
 
@@ -50,7 +50,7 @@ Om conflicten met andere thema’s en plugins te minimaliseren, worden de Kudos 
 
 Een gevolg van deze nieuwe methode is dat als je CSS-aanpassingen hebt gedaan aan het uiterlijk van Kudos Donations, deze niet meer werken. Om Kudos Donations aan te passen, moet je nu je aangepaste CSS schrijven in het tabblad **Aangepaste CSS** onder de campagne waarvoor je het wilt gebruiken.
 
-![Aangepaste CSS](../../../../static/img/customcss.png)
+![Aangepaste CSS](../../../../static/img/nl/campaign-customcss.png)
 
 Een voordeel hiervan is dat je nu eenvoudig het uiterlijk van Kudos Donations per campagne kunt aanpassen. Omdat er minder kans is op conflicten met andere plugins en thema’s, kunnen de CSS-regels eenvoudiger zijn.
 
@@ -76,7 +76,7 @@ Als je nog steeds shortcodes gebruikt (in plaats van blokken), is er een handige
 
 ## Gedeeltelijke Donaties
 
-![Campagne Betaling](../../../../static/img/campaign-payment.png)
+![Campagne Betaling](../../../../static/img/nl/campaign-partial-amounts.png)
 
 Voorheen kon je alleen donaties doen in hele bedragen (1, 5, 10, 20, etc.), maar het is nu mogelijk om donaties in kleinere eenheden te doen (1,5, 5,2, 10,6). Dit geldt zowel voor vaste als open waarde-donaties.
 

@@ -36,7 +36,7 @@ Here is a quick overview of the major changes:
 
 ## Campaigns
 
-![Campaigns](../static/img/campaigns.png)
+![Campaigns](../static/img/en/campaigns-example.png)
 
 In version 3.x the campaigns you created were found under the **Donations > Settings** menu under a campaigns tab. There is now a separate **Donations > Campaigns** menu which gives you an overview of your campaigns and allows you create, delete, duplicate and edit your campaigns.
 
@@ -50,7 +50,7 @@ In order to minimize conflicts with other themes and plugins, the Kudos Donation
 
 A side effect of this new method is that if you have applied any CSS customizations to the way Kudos Donations looks and feels these will no longer work. In order to customize Kudos Donations you will now need to write your custom CSS in the **Custom CSS** tab under the campaign you would like to use it in.
 
-![Custom CSS](../static/img/customcss.png)
+![Custom CSS](../static/img/en/campaign-customcss.png)
 
 An advantage to this is you can now easily customize the way Kudos Donations looks on a per-campaign basis. Since there is less chance of conflicts with other plugins and themes the rules can be simpler.
 
@@ -76,7 +76,7 @@ If you still need to use a shortcode (instead of a block), another handy change 
 
 ## Partial Donations
 
-![Campaign Payment](../static/img/campaign-payment.png)
+![Campaign Payment](../static/img/en/campaign-partial-amounts.png)
 
 Previously you were only allowed to make donations in major units (1, 5, 10, 20 etc.), it is now possible to allow donations in minor units also (1.5, 5,2, 10.6). This applies to both fixed and open value types.
 
