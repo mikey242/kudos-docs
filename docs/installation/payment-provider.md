@@ -16,6 +16,8 @@ You can get your Mollie API keys by visiting [this page](https://mollie.com/dash
 
 :::
 
+![Mollie Settings Tab](../../static/img/en/mollie-tab-completed.png)
+
 ### Recurring payments
 If you want to enable subscription payments you will need to activate one of the following payment methods in your Mollie account:
 
