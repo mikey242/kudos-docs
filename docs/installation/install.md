@@ -15,7 +15,7 @@ We recommend installing from the plugin directory since this allows you to easil
 ## From the plugin directory
 - From your WordPress dashboard, visit the plugin page and click the **Add New Plugin** button.
 - Using the search box search for **Kudos Donations**.
-- Now click the **Install Now** button and when completed click **Activate** button.
+- Now click the **Install Now** button and when completed click the **Activate** button.
 
 ## From zip file
 
@@ -26,6 +26,6 @@ Remember, you do not need to extract the contents of the zip file.
 :::
 
 - Visit [this page](https://wordpress.org/plugins/kudos-donations/) and click the **download** button. This will download the latest version.
-- From your WordPress dashboard, visit the plugin page and click the **Add New Plugin** button, then **Upload Plugin** and finally click **Browse** button.
+- From your WordPress dashboard, visit the plugin page and click the **Add New Plugin** button, then **Upload Plugin** and finally click the **Browse** button.
 - Select the zip file you just downloaded and click **Install Now**.
 - Once the installation process has completed click the **Activate Plugin** button.
