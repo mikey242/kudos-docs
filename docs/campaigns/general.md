@@ -6,6 +6,8 @@ sidebar_position: 1
 
 The **General** tab contains some of the more generic settings for your campaign; such as the name, goal, theme colour and what happens once the donor has completed the payment.
 
+---
+
 ## Campaign details
 
 ![Campaign details](../../static/img/en/campaign-campaign-details.png)

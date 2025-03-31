@@ -8,6 +8,8 @@ As a WordPress plugin naturally you will need to have that installed and set-up 
 
 For maximum compatibility, most requirements are in line with those of WordPress itself. No other plugins or themes are required to run Kudos Donations. Please refer to [this page](https://wordpress.org/about/requirements/) for WordPress requirements.
 
+---
+
 ## Server
 
 - **WordPress:** Minimum version 6.6

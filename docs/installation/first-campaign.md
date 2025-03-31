@@ -6,6 +6,8 @@ sidebar_position: 4
 
 Before you can start receiving donations you will need to create a campaign. Campaigns provide a way of organising your donations into specific projects or goals. Each campaign can be heavily customised to suit your requirements, however in this quick guide we will leave most things as their default setting. For many people, one campaign may be enough, however if you would like a way to split your donations into groups then multiple campaigns can make this much easier.
 
+---
+
 ## Creating a campaign
 
 To create your first campaign you will need to visit the **Campaigns** page located at **Donations > Campaigns**. You will then be greeted by the following screen:

@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Actions
 
+---
+
 ### kudos_donations_upgraded
 
 Wordt geactiveerd wanneer de plugin wordt bijgewerkt.

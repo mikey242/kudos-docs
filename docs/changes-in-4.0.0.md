@@ -1,5 +1,7 @@
 # Changes in v4.0.0
 
+---
+
 ## Introduction
 
 Version 4.0.0 is a major upgrade to Kudos Donations. The plugin has been re-written from the ground up and contains a number of notable changes and improvements compared to the 3.x versions.

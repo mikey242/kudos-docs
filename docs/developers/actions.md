@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Actions
 
+---
+
 ### kudos_donations_upgraded
 
 Triggered when the plugin is upgraded.

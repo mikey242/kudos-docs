@@ -12,6 +12,8 @@ We recommend installing from the plugin directory since this allows you to easil
 
 :::
 
+---
+
 ## From the plugin directory
 - From your WordPress dashboard, visit the plugin page and click the **Add New Plugin** button.
 - Using the search box search for **Kudos Donations**.

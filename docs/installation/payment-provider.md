@@ -6,6 +6,8 @@ sidebar_position: 3
 
 Once you have [installed](./install.md) and activated Kudos Donations, the next step is to enable a payment provider. At the moment we only support Mollie, however we are planning on adding more in the future.
 
+---
+
 ## Mollie
 
 :::tip

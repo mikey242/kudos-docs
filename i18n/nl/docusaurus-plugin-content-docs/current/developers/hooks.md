@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Hooks
 
+---
+
 Hooks zijn functies die WordPress ondersteunt en waarmee je kunt interageren met of onderdelen van de plugin kunt aanpassen zonder de code van de plugin zelf te wijzigen. Dit zorgt ervoor dat je aanpassingen behouden blijven, zelfs wanneer de plugin wordt bijgewerkt.
 
 :::info

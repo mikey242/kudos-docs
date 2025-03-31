@@ -8,6 +8,8 @@ Omdat Kudos Donations een WordPress-plugin is, moet je WordPress geïnstalleerd 
 
 Voor maximale compatibiliteit liggen de meeste vereisten in lijn met die van WordPress zelf. Er zijn geen andere plugins of thema’s nodig om Kudos Donations te gebruiken. Bekijk [deze pagina](https://wordpress.org/about/requirements/) voor de WordPress-vereisten.
 
+---
+
 ## Server
 
 - **WordPress:** Minimale versie 6.6

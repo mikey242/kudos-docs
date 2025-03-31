@@ -6,6 +6,8 @@ sidebar_position: 3
 
 Zodra je Kudos Donations hebt [geïnstalleerd](./install.md) en geactiveerd, is de volgende stap het inschakelen van een betaalprovider. Op dit moment ondersteunen we alleen Mollie, maar we zijn van plan om in de toekomst meer opties toe te voegen.
 
+---
+
 ## Mollie
 
 :::tip

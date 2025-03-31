@@ -12,6 +12,8 @@ We raden aan om de plugin via de WordPress plugin-directory te installeren, zoda
 
 :::
 
+---
+
 ## Via de plugin-directory
 - Ga in je WordPress-dashboard naar de plugins-pagina en klik op de knop **Nieuwe plugin toevoegen**.
 - Gebruik de zoekbalk om te zoeken naar **Kudos Donations**.

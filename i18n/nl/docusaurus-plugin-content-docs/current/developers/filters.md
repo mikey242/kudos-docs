@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Filters
 
+---
+
 ### kudos_payment_description
 
 Met deze filter kun je de tekst wijzigen die wordt gebruikt voor de betalingsomschrijving.
