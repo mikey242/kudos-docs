@@ -20,7 +20,8 @@ The Kudos Donations Plus add-on is a paid add-on that provides additional functi
 
 Here is a quick overview of the features:
 
-* Whitelabel - ability to hide Kudos Donations branding and use a custom logo for emails and pdfs
+* Export to CSV - ability to export campaigns, transactions, donors and subscriptions to csv files
+* Branding - ability to hide Kudos Donations branding and use a custom logo for emails and pdfs
 * New progress bar block for displaying campaign progress anywhere on your website
 * Newsletter integration will allow donors to opt-in to newsletter subscriptions. Supports the following integrations:
   * [Brevo](https://www.brevo.com/)
