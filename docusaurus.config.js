@@ -4,47 +4,52 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Kudos Donations',
-  tagline: 'Easy donations and payments for WordPress',
-  favicon: 'img/favicon.ico',
+  title: "Kudos Donations",
+  tagline: "Easy donations and payments for WordPress",
+  favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: 'https://docs.kudosdonations.com',
+  url: "https://docs.kudosdonations.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+    },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'nl'],
+    defaultLocale: "en",
+    locales: ["en", "nl"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
+          sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
         blog: false,
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
         googleTagManager: {
-          containerId: 'GTM-M2KWTHG3',
+          containerId: "GTM-M2KWTHG3",
         },
       }),
     ],
@@ -54,48 +59,48 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: 'Kudos Donations',
+        title: "Kudos Donations",
         logo: {
-          alt: 'Kudos Donations Logo',
-          src: 'img/logo.svg',
+          alt: "Kudos Donations Logo",
+          src: "img/logo.svg",
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'docsSidebar',
-            position: 'left',
-            label: 'Docs',
+            type: "docSidebar",
+            sidebarId: "docsSidebar",
+            position: "left",
+            label: "Docs",
           },
           {
-            type: 'localeDropdown',
-            position: 'right'
+            type: "localeDropdown",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         links: [
           {
-            title: 'Community',
+            title: "Community",
             items: [
               {
-                label: 'Forums',
-                href: 'https://wordpress.org/support/plugin/kudos-donations/',
+                label: "Forums",
+                href: "https://wordpress.org/support/plugin/kudos-donations/",
               },
               {
-                label: 'Plugin Page',
-                href: 'https://wordpress.org/plugins/kudos-donations/',
-              }
+                label: "Plugin Page",
+                href: "https://wordpress.org/plugins/kudos-donations/",
+              },
             ],
           },
           {
-            title: 'More',
+            title: "More",
             items: [
               {
-                label: 'GitLab',
-                href: 'https://gitlab.iseard.media/michael/kudos-donations',
+                label: "GitHub",
+                href: "https://github.com/mikey242/kudos-donations",
               },
             ],
           },
@@ -105,14 +110,14 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-        additionalLanguages: ['php']
+        additionalLanguages: ["php"],
       },
       algolia: {
         appId: "CHWV6ABBQ7",
         apiKey: "623ff72cb18118b6e98f61ebba8f68d2",
         indexName: "kudosdonations",
         contextualSearch: true,
-      }
+      },
     }),
 };
 
