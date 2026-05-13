@@ -1,35 +1,41 @@
 ---
-sidebar_position: 4
+sidebar_position: 1
 ---
 
 # Plus
 
 :::info
 
-**Work in progress**: The Kudos Donations Plus add-on is not yet available and is currently under active development. Information on availablility will be comunicated here and via the main plugin once ready.
+**Work in progress**: The Kudos Donations Plus add-on is not yet available and is currently under active development. Information on availability will be communicated here and via the main plugin once ready.
 
 :::
 
+Kudos Donations Plus is a paid add-on that extends the base plugin with advanced reporting, customisation, and marketing tools.
+
 ---
 
-## Introduction
+## Features
 
-The Kudos Donations Plus add-on is a paid add-on that provides additional functionality to the base Kudos Donations Plugin.
+### [Dashboard](./dashboard)
 
-## Overview
+A new admin page giving you a visual overview of your donation activity — score cards, charts by month, by campaign, and by donor country, all in one place.
 
-Here is a quick overview of the features:
+### [Export to CSV](./export-to-csv)
 
-* Dashboard - new admin page showing an overview of your donations and campaigns
-* Export to CSV - ability to export campaigns, transactions, donors and subscriptions to csv files
-* Branding - ability to hide Kudos Donations branding and use a custom logo for emails and pdfs
-* New progress bar block for displaying campaign progress anywhere on your website
-* Campaign progress block - you can now show the progress bar for a campaign in a separate place on your website
-* Newsletter integration will allow donors to opt-in to newsletter subscriptions. Supports the following integrations:
-  * [Brevo](https://www.brevo.com/)
-  * [EmailOctopus](https://emailoctopus.com/)
-  * [MailPoet](https://www.mailpoet.com/)
-  * [MailChimp](https://mailchimp.com/)
-  * [MailerLite](https://www.mailerlite.com/)
+Download your campaigns, transactions, donors, and subscriptions as CSV files. Filters and sort order applied in the list view carry through to the export.
 
-More features are planned for the future and will be listed here once available.
+### [Branding](./branding)
+
+Upload a custom logo to use on receipt emails and PDFs, and optionally hide Kudos Donations branding from donate buttons and forms.
+
+### [Campaign Progress Block](./campaign-progress-block)
+
+A WordPress block that lets you display a campaign's donation progress bar anywhere on your site, independently of the donation form.
+
+### [Newsletter Integration](./newsletter)
+
+Show an opt-in checkbox on the donation form and automatically subscribe donors to your mailing list. Supports Brevo, EmailOctopus, MailPoet, Mailchimp, and MailerLite.
+
+---
+
+More features are planned and will be documented here as they become available.
