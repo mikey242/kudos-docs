@@ -4,15 +4,27 @@ sidebar_position: 4
 
 # Optional fields
 
-Here you an change the availability of various options fields
+Here you can change the availability of various optional fields on the donation form.
 
 ---
 
-## Optional fields
+## Donor details
 
-### Allow anonymous donations
+### Name
 
-This allows donors to donate without leaving their name or email address. Anonymous users can only perform one-off donations.
+Controls whether the name field is shown on the donation form.
+
+#### Required
+
+When enabled, donors must enter their name before submitting.
+
+### Email
+
+Controls whether the email address field is shown on the donation form.
+
+#### Required
+
+When enabled, donors must enter their email address before submitting.
 
 ### Address
 

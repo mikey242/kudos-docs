@@ -33,7 +33,16 @@ Shortcodes are the older method but have more support on older websites and them
 
 ``[kudos campaign_id=3]``
 
-These can be placed anywhere on your posts and pages and will be converted to a Kudos Donations form for you visitors.
+These can be placed anywhere on your posts and pages and will be converted to a Kudos Donations form for your visitors.
+
+The following attributes are available:
+
+| Attribute | Default | Description |
+|-----------|---------|-------------|
+| `campaign_id` | _(none)_ | The ID of the campaign to use |
+| `button_label` | `Donate now` | The text shown on the donate button |
+| `type` | `button` | Display as a `button` or inline `form` |
+| `alignment` | `left` | Horizontal alignment: `left`, `center`, or `right` |
 
 Rather than typing out the shortcode manually, you can click on the **Shortcode** button at the top of your campaign. This will open a pop-up where you can configure the shortcode. Let's leave everything as default for now and just click the **Copy shortcode** button at the bottom of the pop-up.
 
@@ -49,7 +58,7 @@ To get started, go to the Pages/Posts menu and edit the desired page. Then place
 
 ![Block Picker Dialogue](../../static/img/en/block-editor-choose-kudos.png)
 
-Now choose the campaign you just created on the sidebar on the right hand side. That's it, the **Donate Now** button should appear and all you need to do now is click save.
+Now choose the campaign you just created on the sidebar on the right hand side. You can also set the button label, display type (button or inline form), and alignment from the block settings panel. That's it — click save and your donate button will appear on the page.
 
 ## Next step
 

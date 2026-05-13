@@ -10,7 +10,7 @@ Here you can customise the text that appears on each section of the donation for
 
 ![Text tab](../../static/img/en/campaign-text.png)
 
-Each section of the donation form has the same two customizable text areas which can be left blank if desired.
+Each section of the donation form has the same two customizable text areas which can be left blank if desired. The sections are: **Initial**, **Subscription**, **Address**, **Message**, **Payment**, and **Return Message**.
 
 ## Title
 

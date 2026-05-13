@@ -12,7 +12,7 @@ For maximum compatibility, most requirements are in line with those of WordPress
 
 ## Server
 
-- **WordPress:** Minimum version 6.6
+- **WordPress:** Minimum version 6.9
 - **PHP:** Minimum version 7.4
 
 ## Other
