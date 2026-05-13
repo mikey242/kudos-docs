@@ -1,32 +1,32 @@
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import Translate from '@docusaurus/Translate';
+import Translate, {translate} from '@docusaurus/Translate';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
 import KudosLogo from '../../static/img/kudos-white.svg'
 
-const sections = [
+const getSections = () => [
   {
-    title: 'Installation',
+    title: translate({id: 'homepage.section.installation.title', message: 'Installation'}),
     href: './docs/installation/requirements',
-    description: 'Check the requirements, install the plugin, and set up your first campaign.',
+    description: translate({id: 'homepage.section.installation.description', message: 'Check the requirements, install the plugin, and set up your first campaign.'}),
   },
   {
-    title: 'Campaigns',
+    title: translate({id: 'homepage.section.campaigns.title', message: 'Campaigns'}),
     href: './docs/campaigns',
-    description: 'Create and configure campaigns, set goals, customise themes, and embed donation forms.',
+    description: translate({id: 'homepage.section.campaigns.description', message: 'Create and configure campaigns, set goals, customise themes, and embed donation forms.'}),
   },
   {
-    title: 'Plus',
+    title: translate({id: 'homepage.section.plus.title', message: 'Plus'}),
     href: './docs/plus',
-    description: 'Unlock advanced features: dashboard, CSV exports, custom branding, and newsletter integrations.',
+    description: translate({id: 'homepage.section.plus.description', message: 'Unlock advanced features: dashboard, CSV exports, custom branding, and newsletter integrations.'}),
   },
   {
-    title: 'Developers',
+    title: translate({id: 'homepage.section.developers.title', message: 'Developers'}),
     href: './docs/developers/hooks',
-    description: 'Extend and integrate Kudos Donations using the available actions, filters, and hooks.',
+    description: translate({id: 'homepage.section.developers.description', message: 'Extend and integrate Kudos Donations using the available actions, filters, and hooks.'}),
   },
 ];
 
@@ -41,7 +41,7 @@ export default function Home() {
           <div style={{width: '18vw', minWidth: '160px', margin: '0 auto 1rem'}}><KudosLogo /></div>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.sectionGrid}>
-            {sections.map(({title, href, description}) => (
+            {getSections().map(({title, href, description}) => (
               <Link key={title} to={href} className={styles.sectionCard}>
                 <Heading as="h3">{title}</Heading>
                 <p>{description}</p>

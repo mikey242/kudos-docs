@@ -443,5 +443,29 @@
   },
   "Check out the documentation": {
     "message": "Bekijk de documentatie"
+  },
+  "homepage.section.installation.title": {
+    "message": "Installatie"
+  },
+  "homepage.section.installation.description": {
+    "message": "Controleer de vereisten, installeer de plugin en maak je eerste campagne aan."
+  },
+  "homepage.section.campaigns.title": {
+    "message": "Campagnes"
+  },
+  "homepage.section.campaigns.description": {
+    "message": "Maak campagnes aan en configureer ze, stel doelen in, pas thema's aan en voeg donatiefomulieren in."
+  },
+  "homepage.section.plus.title": {
+    "message": "Plus"
+  },
+  "homepage.section.plus.description": {
+    "message": "Ontgrendel geavanceerde functies: dashboard, CSV-exports, eigen huisstijl en nieuwsbriefintegraties."
+  },
+  "homepage.section.developers.title": {
+    "message": "Ontwikkelaars"
+  },
+  "homepage.section.developers.description": {
+    "message": "Breid Kudos Donations uit en integreer het via de beschikbare actions, filters en hooks."
   }
 }
